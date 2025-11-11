@@ -1,1 +1,36 @@
-# Jeovane-Venancio
+# 👋 Olá, eu sou o Jeovane Venâncio!
+
+🎯 Analista de Sistemas • 📍 Caruaru-PE • 🇧🇷  
+📂 Atualmente explorando desenvolvimento web, TypeScript, SCSS, design de interfaces e soluções funcionais.
+
+---
+
+## 🧰 Tecnologias que uso  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![SCSS](https://img.shields.io/badge/SCSS-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JeovaneVenic&show_icons=true&theme=tokyonight)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JeovaneVenic&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Me encontre aqui  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeovaneVenic)
+
+---
+
+## ✍️ Um pouco sobre mim  
+Desde cedo me interessei por como a tecnologia pode tornar processos mais eficientes e a experiência do usuário mais fluida. Como analista de sistemas, busco unir lógica, estética e usabilidade, para transformar ideias em produtos que façam diferença.  
+
+Se quiser ver algum projeto ou colaborar em algo bacana — vamos conversar!  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
