@@ -21,21 +21,10 @@
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
         </p>
       </td>
-
-      <!-- COLUNA 2: Estatísticas -->
-      <td align="center" width="50%" valign="top">
-        <h2>📊 Estatísticas do GitHub</h2>
-        <br/>
-        <p align="center">
-          <img height="150" src="https://github-readme-stats.vercel.app/api?username=JeovaneVenic&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-          <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeovaneVenic&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-        </p>
-      </td>
-    </tr>
-  </table>
-
 </div>
 
+---
+## 📊 Estatísticas do GitHub ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JeovaneVenic&show_icons=true&theme=tokyonight) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JeovaneVenic&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Me encontre aqui  
