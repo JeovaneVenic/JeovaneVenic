@@ -20,22 +20,7 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JeovaneVenic&layout=compact&theme=tokyonight)
 
----
-
-## 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeovane%20Venâncio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-JeovaneVenic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeovaneVenic)
-
----
-
-## ✍️ Sobre mim
-
-Desde cedo, me interesso por como a tecnologia pode **simplificar processos** e **melhorar a experiência do usuário**.  
-Como **analista de sistemas**, busco unir **lógica, estética e usabilidade** para transformar ideias em soluções reais e impactantes.
 
 Se quiser conhecer meus projetos ou colaborar em algo interessante — **vamos conversar!** 🚀
 
----
 
-> 💡 “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
