@@ -6,7 +6,7 @@
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+## 🧰 Technologies and Tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 📊 My statistics on GitHub
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JeovaneVenic&layout=compact&theme=tokyonight)
 
