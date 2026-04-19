@@ -2,7 +2,7 @@
 
 🎯 **Analista de Sistemas**  
 📍 **Caruaru - PE, Brasil**  
-💻 Atualmente explorando o desenvolvimento web.
+💻 Currently exploring web development.
 
 ---
 
