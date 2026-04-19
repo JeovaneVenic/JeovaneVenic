@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou **Jeovane Venâncio**
+# 👋 Hello! I'm **Jeovane Venâncio**
 
 🎯 **Analista de Sistemas**  
 📍 **Caruaru - PE, Brasil**  
