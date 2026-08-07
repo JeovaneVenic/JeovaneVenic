@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,mongodb,git,github,vscode,figma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,mongodb,python,git,github,vscode,figma&perline=7"/>
 
 </div>
 
