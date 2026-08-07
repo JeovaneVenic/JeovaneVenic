@@ -20,12 +20,6 @@ Objetivo.........: Criar aplicações modernas e escaláveis
 Status...........: Aprendendo algo novo todos os dias...
 ```
 
-Sou desenvolvedor apaixonado por tecnologia e criação de soluções digitais.
-
-Meu objetivo é desenvolver aplicações modernas, performáticas e intuitivas utilizando as melhores tecnologias do ecossistema JavaScript.
-
-Sempre buscando evoluir através de projetos reais, desafios e aprendizado contínuo.
-
 ---
 
 # 🚀 Tech Stack
@@ -56,42 +50,6 @@ Sempre buscando evoluir através de projetos reais, desafios e aprendizado cont�
 
 ---
 
-# 💻 Projetos em Destaque
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🌐 Projetos Web
-
-- Landing Pages Responsivas
-- Sistemas Administrativos
-- Dashboards
-- Aplicações Full Stack
-- APIs REST
-
-</td>
-
-<td width="50%">
-
-### 🚀 Em Desenvolvimento
-
-- Novos projetos com React
-- Aplicações em Next.js
-- Interfaces Modernas
-- Portfólio Premium
-
-</td>
-
-</tr>
-
-</table>
-
-
-
----
 
 # 📊 GitHub Analytics
 
@@ -105,7 +63,7 @@ Sempre buscando evoluir através de projetos reais, desafios e aprendizado cont�
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <div align="center">
 
@@ -115,7 +73,7 @@ Sempre buscando evoluir através de projetos reais, desafios e aprendizado cont�
 
 ---
 
-# 🌎 Conecte-se comigo
+#  Conecte-se comigo
 
 <div align="center">
 
