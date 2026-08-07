@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=JEOVANE%20VENÂNCIO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20JavaScript%20%7C%20TypeScript%20%7C%20Always%20Learning&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=JEOVANE%20VENÂNCIO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Always%20Learning&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Initializing+Developer+Profile...;%F0%9F%92%BB+Building+Modern+Web+Applications;%E2%9A%A1+JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;%F0%9F%9A%80+Creating+Projects+That+Solve+Real+Problems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Initializing+Developer+Profile...;%F0%9F%92%BB+Building+Modern+Web+Applications;%E2%9A%A1+React+%7C+Next.js;%F0%9F%9A%80+Creating+Projects+That+Solve+Real+Problems"/>
 
 </div>
 
