@@ -7,8 +7,13 @@
 </div>
 
 ---
+# About me
 
+Meu nome é Jeovane Venâncio e sou desenvolvedor web apaixonado por tecnologia e inovação.
 
+Tenho como objetivo desenvolver soluções que unam qualidade, segurança e uma excelente experiência para o usuário, buscando sempre aprender novas tecnologias e enfrentar desafios que contribuam para minha evolução profissional. Acredito que a evolução constante e a prática são fundamentais para construir software de alto nível e gerar impacto positivo através da tecnologia.
+
+---
 #  Tech Stack
 
 <div align="center">
@@ -33,16 +38,16 @@
 
 <div align="center">
 
-<a href="https://github.com/JeovaneVenic">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/JeovaneVenic" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
-<a href="[https://www.linkedin.com](https://www.linkedin.com/in/jeovane-ven%C3%A2ncio-4610702ab/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/jeovane-ven%C3%A2ncio-4610702ab/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
 <a href="mailto:jeovanevenancio39@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
