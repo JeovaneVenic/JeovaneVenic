@@ -89,24 +89,7 @@ Sempre buscando evoluir através de projetos reais, desafios e aprendizado cont�
 
 </table>
 
----
 
-# 📡 Objetivos Atuais
-
-```terminal
-Loading roadmap...
-
-[███████████░░░░░░░░] React
-[█████████████░░░░░] Next.js
-[████████████░░░░░░] TypeScript
-[██████████░░░░░░░░] Node.js
-[████████░░░░░░░░░░] Cloud
-
-Status:
-✔ Construindo projetos para o GitHub
-✔ Evoluindo como Desenvolvedor Web
-✔ Compartilhando conhecimento
-```
 
 ---
 
@@ -127,36 +110,6 @@ Status:
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=JeovaneVenic&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeovaneVenic&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JeovaneVenic&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/JeovaneVenic/JeovaneVenic/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
