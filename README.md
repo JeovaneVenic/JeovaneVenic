@@ -32,37 +32,6 @@ Status...........: Aprendendo algo novo todos os dias...
 
 ---
 
-# ⚙️ Ferramentas
-
-<div align="center">
-
-![](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-
-</div>
-
----
-
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeovaneVenic&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeovaneVenic&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 #  GitHub Streak
 
 <div align="center">
