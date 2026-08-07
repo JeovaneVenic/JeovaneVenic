@@ -8,7 +8,7 @@
 
 ---
 
-# <img width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> Sobre Mim
+ Sobre Mim
 
 ```bash
 > SYSTEM STATUS
