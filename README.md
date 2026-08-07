@@ -8,19 +8,6 @@
 
 ---
 
- Sobre Mim
-
-```bash
-> SYSTEM STATUS
-
-Nome.............: Jeovane Venâncio
-Área.............: Web Development
-Stack............: JavaScript | TypeScript
-Objetivo.........: Criar aplicações modernas e escaláveis
-Status...........: Aprendendo algo novo todos os dias...
-```
-
----
 
 #  Tech Stack
 
