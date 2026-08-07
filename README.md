@@ -22,7 +22,7 @@ Status...........: Aprendendo algo novo todos os dias...
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Status...........: Aprendendo algo novo todos os dias...
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 *"Code. Create. Learn. Repeat."*
 
