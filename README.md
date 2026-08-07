@@ -51,7 +51,6 @@ Tenho como objetivo desenvolver soluções que unam qualidade, segurança e uma 
 </a>
 
 </div>
-
 ---
 
 <div align="center">
