@@ -1,19 +1,193 @@
-# 👋 Hello! I'm **Jeovane Venâncio**
+<div align="center">
 
-🎯 **Analista de Sistemas**  
-📍 **Caruaru - PE, Brasil**  
-💻 Currently exploring web development.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=JEOVANE%20VENÂNCIO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20JavaScript%20%7C%20TypeScript%20%7C%20Always%20Learning&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Initializing+Developer+Profile...;%F0%9F%92%BB+Building+Modern+Web+Applications;%E2%9A%A1+JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;%F0%9F%9A%80+Creating+Projects+That+Solve+Real+Problems"/>
+
+</div>
 
 ---
 
-## 🧰 Technologies and Tools
+# <img width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> Sobre Mim
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+```bash
+> SYSTEM STATUS
 
-Se quiser conhecer meus projetos ou colaborar em algo interessante — **vamos conversar!** 🚀
+Nome.............: Jeovane Venâncio
+Área.............: Web Development
+Stack............: JavaScript | TypeScript
+Objetivo.........: Criar aplicações modernas e escaláveis
+Status...........: Aprendendo algo novo todos os dias...
+```
 
+Sou desenvolvedor apaixonado por tecnologia e criação de soluções digitais.
 
+Meu objetivo é desenvolver aplicações modernas, performáticas e intuitivas utilizando as melhores tecnologias do ecossistema JavaScript.
+
+Sempre buscando evoluir através de projetos reais, desafios e aprendizado contínuo.
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,mongodb,git,github,vscode,figma&perline=7"/>
+
+</div>
+
+---
+
+# ⚙️ Ferramentas
+
+<div align="center">
+
+![](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+
+</div>
+
+---
+
+# 💻 Projetos em Destaque
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 Projetos Web
+
+- Landing Pages Responsivas
+- Sistemas Administrativos
+- Dashboards
+- Aplicações Full Stack
+- APIs REST
+
+</td>
+
+<td width="50%">
+
+### 🚀 Em Desenvolvimento
+
+- Novos projetos com React
+- Aplicações em Next.js
+- Interfaces Modernas
+- Portfólio Premium
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📡 Objetivos Atuais
+
+```terminal
+Loading roadmap...
+
+[███████████░░░░░░░░] React
+[█████████████░░░░░] Next.js
+[████████████░░░░░░] TypeScript
+[██████████░░░░░░░░] Node.js
+[████████░░░░░░░░░░] Cloud
+
+Status:
+✔ Construindo projetos para o GitHub
+✔ Evoluindo como Desenvolvedor Web
+✔ Compartilhando conhecimento
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeovaneVenic&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeovaneVenic&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=JeovaneVenic&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeovaneVenic&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JeovaneVenic&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JeovaneVenic/JeovaneVenic/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌎 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://github.com/JeovaneVenic">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="[https://www.linkedin.com](https://www.linkedin.com/in/jeovane-ven%C3%A2ncio-4610702ab/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:jeovanevenancio39@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Create. Learn. Repeat."*
+
+</div>
