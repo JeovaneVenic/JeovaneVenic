@@ -1,64 +1,85 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=JEOVANE%20VENÂNCIO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Always%20Learning&descAlignY=58"/>
+<img src="./assets/header.svg" width="100%" alt="Jeovane Venâncio — Analista de Sistemas e Desenvolvedor Web"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Initializing+Developer+Profile...;%F0%9F%92%BB+Building+Modern+Web+Applications;%E2%9A%A1+React+%7C+Next.js;%F0%9F%9A%80+Creating+Projects+That+Solve+Real+Problems"/>
+<br/>
 
-</div>
-
----
-# About me
-
-Meu nome é Jeovane Venâncio e sou desenvolvedor web apaixonado por tecnologia e inovação.
-
-Tenho como objetivo desenvolver soluções que unam qualidade, segurança e uma excelente experiência para o usuário, buscando sempre aprender novas tecnologias e enfrentar desafios que contribuam para minha evolução profissional. Acredito que a evolução constante e a prática são fundamentais para construir software de alto nível e gerar impacto positivo através da tecnologia.
-
----
-#  Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,python,git,github,vscode,figma&perline=7"/>
+<a href="https://www.linkedin.com/in/jeovane-ven%C3%A2ncio-4610702ab/"><img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=flat-square&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
+<a href="mailto:jeovanevenancio39@gmail.com"><img src="https://img.shields.io/badge/E--mail-0B0F17?style=flat-square&logo=gmail&logoColor=A78BFA" alt="E-mail"/></a>
+<img src="https://komarev.com/ghpvc/?username=JeovaneVenic&style=flat-square&color=0B0F17&label=visitas" alt="Visitas ao perfil"/>
 
 </div>
 
----
+<br/>
 
-#  GitHub Streak
+### Olá! 👋
+
+Sou **Jeovane**, analista de sistemas de **Caruaru — PE**. Construo interfaces web rápidas, responsivas e bem acabadas — de landing pages premium a sistemas de agendamento e gestão.
+
+```ts
+const jeovane = {
+  foco:       "Front-end moderno com React, Next.js e TypeScript",
+  agora:      "Landing pages de alta conversão para negócios locais",
+  estudando:  ["Node.js no back-end", "QA e testes automatizados"],
+  disponivel: true,
+};
+```
+
+<br/>
+
+### 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/JeovaneVenic/aciolyconstrucoes">🏛️ Acioly Construções</a></h4>
+      <p>Landing page premium para escritório de arquitetura e construção.</p>
+      <img src="https://img.shields.io/badge/JavaScript-0B0F17?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/JeovaneVenic/LeadingPage--VenicCriativa">🎨 VenicCriativa</a></h4>
+      <p>Site institucional de agência de marketing — identidade, serviços e proposta de valor.</p>
+      <img src="https://img.shields.io/badge/CSS-0B0F17?style=flat-square&logo=css3&logoColor=1572B6"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/JeovaneVenic/barbearia-v3">💈 Barbearia v3</a></h4>
+      <p>Protótipo de sistema de agendamento para barbearias.</p>
+      <img src="https://img.shields.io/badge/TypeScript-0B0F17?style=flat-square&logo=typescript&logoColor=3178C6"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/JeovaneVenic/teste-de-automacao-mafra">🧪 Automação de Testes</a></h4>
+      <p>Práticas de QA, testes automatizados e integração contínua.</p>
+      <img src="https://img.shields.io/badge/JavaScript-0B0F17?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🧰 Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,mysql,python,git,figma&theme=dark" alt="Stack"/>
+</p>
+
+<br/>
+
+### 📈 Atividade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeovaneVenic/JeovaneVenic/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeovaneVenic/JeovaneVenic/output/snake.svg"/>
+  <img alt="Contribuições do GitHub em forma de cobrinha" src="https://raw.githubusercontent.com/JeovaneVenic/JeovaneVenic/output/snake-dark.svg"/>
+</picture>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JeovaneVenic&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=JeovaneVenic&locale=pt_BR&hide_border=true&background=0B0F17&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=D1D5DB&currStreakNum=F9FAFB&sideNums=F9FAFB&dates=6B7280&stroke=1F2937" alt="Sequência de contribuições" width="100%"/>
 </div>
 
----
-
-#  Conecte-se comigo
+<br/>
 
 <div align="center">
-
-<a href="https://github.com/JeovaneVenic" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/in/jeovane-ven%C3%A2ncio-4610702ab/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
-
-<a href="mailto:jeovanevenancio39@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</div>
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
-
-###  Thanks for visiting my profile!
-
-*"Code. Create. Learn. Repeat."*
-
+  <sub>Código. Criação. Aprendizado. Repetição. — feito com ☕ em Caruaru</sub>
 </div>
